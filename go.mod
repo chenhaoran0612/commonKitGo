@@ -1,4 +1,4 @@
-module zeus/app/kit
+module github.com/chenhaoran0612/commonKitGo
 
 go 1.16
 
