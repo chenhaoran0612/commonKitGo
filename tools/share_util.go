@@ -2,10 +2,10 @@ package tools
 
 import (
 	"fmt"
+	"github.com/chenhaoran0612/commonKitGo/global"
 	"github.com/shopspring/decimal"
 	"math"
 	"strconv"
-	"zeus/app/kit/global"
 )
 
 var ShareToHashrateScales decimal.Decimal = decimal.NewFromInt(4294967296)
